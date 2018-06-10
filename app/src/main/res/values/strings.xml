@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Custom Reusable Alert Dialog Android</string>
+    <string name="desc">Are you sure want to delete? Once delete you cannot undone.</string>
+    <string name="cancel">cancel</string>
+    <string name="ok">Okay</string>
+    <string name="delete">delete</string>
+    <string name="cencel">cancel</string>
+</resources>
